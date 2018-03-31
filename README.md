@@ -1,3 +1,3 @@
 # FrontEndEmailPage
 Email page
-[Link](https://mateacademy-fe-study.github.io/decolete_ASI/)
+[Link](https://arturrudyk.github.io/FrontEndEmailPage/email.html)
